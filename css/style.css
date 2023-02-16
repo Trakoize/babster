@@ -1,0 +1,16 @@
+ @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap');
+    
+    body{
+     margin: 50px; 
+     font-family: Atkinson Hyperlegible;
+     background:#1a1a1a;
+     color:white;
+
+
+
+    }
+ 
+a {
+   color:#99ffa2;
+   text-decoration: none;
+}
