@@ -1,5 +1,7 @@
-# Radee
-Radee is an (amateurish) music streaming website (or in this case a html template)
+# Babster
+Babster is a music streaming website
 
 # Screenshots
-![Radee Homepage](https://cdn.discordapp.com/attachments/779743553114996786/892917780603625542/unknown.png)
+![image](https://user-images.githubusercontent.com/64753131/219419952-ade34008-d874-41fc-be5e-625976ff17ae.png)
+![image](https://user-images.githubusercontent.com/64753131/219420076-50063595-6743-4b80-a83e-d672e78eb10a.png)
+
